@@ -1,0 +1,24 @@
+{
+  "name": "@hero-page/hero-sql-querybuilder",
+  "version": "1.0.0",
+  "description": "A library that assists in building dynamic SQL queries with various conditions and options",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests.js"
+  },
+  "repository": {},
+  "keywords": [
+    "sql",
+    "querybuilder",
+    "select",
+    "where",
+    "orderBy",
+    "groupBy",
+    "limit",
+    "insert",
+    "update"
+  ],
+  "author": "Sam Chahine",
+  "license": "MIT",
+  "dependencies": {}
+}
